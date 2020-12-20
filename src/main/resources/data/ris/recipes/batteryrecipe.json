@@ -1,0 +1,22 @@
+{
+  "group": "ris",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:white_terracotta"
+    },
+    {
+      "item": "minecraft:white_terracotta"
+    },
+    {
+      "item": "minecraft:white_terracotta"
+    },
+    {
+      "item": "ris:cboard"
+    }
+  ],
+  "result": {
+    "item": "ris:battery",
+    "count": 1
+  }
+}

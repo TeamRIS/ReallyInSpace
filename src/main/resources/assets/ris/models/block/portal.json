@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ris:blocks/ptex",
+    "up": "ris:blocks//ptex",
+    "north": "ris:blocks//ptex",
+    "east": "ris:blocks//ptex",
+    "south": "ris:blocks//ptex",
+    "west": "ris:blocks//ptex",
+    "particle": "ris:blocks/ptex"
+  }
+}

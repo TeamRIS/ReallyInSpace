@@ -1,0 +1,3337 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RIS",
+      "type": "tab",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ris"
+    },
+    {
+      "name": "Mercsoil",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mercsoil"
+    },
+    {
+      "name": "MartianLog",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_log"
+    },
+    {
+      "name": "MartianPlanks",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_planks"
+    },
+    {
+      "name": "MartianLeaves",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_leaves"
+    },
+    {
+      "name": "MartianStairs",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_stairs"
+    },
+    {
+      "name": "MartianSlab",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_slab"
+    },
+    {
+      "name": "MartianFence",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_fence"
+    },
+    {
+      "name": "MartianFenceGate",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_fence_gate"
+    },
+    {
+      "name": "MartianWoodRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_wood_recipe"
+    },
+    {
+      "name": "MartianPlanksRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_planks_recipe"
+    },
+    {
+      "name": "MartianStairsRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_stairs_recipe"
+    },
+    {
+      "name": "MartianSlabRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_slab_recipe"
+    },
+    {
+      "name": "MartianFenceRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_fence_recipe"
+    },
+    {
+      "name": "MartianFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_fence_gate_recipe"
+    },
+    {
+      "name": "MartianStickRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_stick_recipe"
+    },
+    {
+      "name": "Mercfltbiomes",
+      "type": "biome",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mercfltbiomes"
+    },
+    {
+      "name": "Rocket",
+      "type": "mob",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocket"
+    },
+    {
+      "name": "Pannel",
+      "type": "gui",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pannel"
+    },
+    {
+      "name": "Portal",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portal"
+    },
+    {
+      "name": "Mercdim",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mercdim"
+    },
+    {
+      "name": "GalaxiumDust",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_dust"
+    },
+    {
+      "name": "GalaxiumOre",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_ore"
+    },
+    {
+      "name": "GalaxiumBlock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_block"
+    },
+    {
+      "name": "GalaxiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_ore_block_recipe"
+    },
+    {
+      "name": "GalaxiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_block_ore_recipe"
+    },
+    {
+      "name": "GalaxiumOreSmelting",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_ore_smelting"
+    },
+    {
+      "name": "GalaxiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_pickaxe_recipe"
+    },
+    {
+      "name": "GalaxiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_axe_recipe"
+    },
+    {
+      "name": "GalaxiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_sword_recipe"
+    },
+    {
+      "name": "GalaxiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_shovel_recipe"
+    },
+    {
+      "name": "GalaxiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "galaxium_hoe_recipe"
+    },
+    {
+      "name": "Compressedmagma",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressedmagma"
+    },
+    {
+      "name": "Venus",
+      "type": "biome",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "venus"
+    },
+    {
+      "name": "Venusdimension",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "venusdimension"
+    },
+    {
+      "name": "Merctp",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "merctp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Etp",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ventp",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ventp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MartianStone",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "martian_stone"
+    },
+    {
+      "name": "Marsflat",
+      "type": "biome",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marsflat"
+    },
+    {
+      "name": "Mars",
+      "type": "dimension",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mars"
+    },
+    {
+      "name": "Marsdimtp",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marsdimtp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jupiter",
+      "type": "biome",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jupiter"
+    },
+    {
+      "name": "Jupiterdim",
+      "type": "dimension",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jupiterdim"
+    },
+    {
+      "name": "Juptp",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "juptp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rc",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rc"
+    },
+    {
+      "name": "Rcf",
+      "type": "function",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rcf"
+    },
+    {
+      "name": "Liftoff",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "liftoff",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Saturnb",
+      "type": "biome",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saturnb"
+    },
+    {
+      "name": "Portaleffect",
+      "type": "particle",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portaleffect"
+    },
+    {
+      "name": "Saturn",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saturn"
+    },
+    {
+      "name": "Uranusbiome",
+      "type": "biome",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranusbiome"
+    },
+    {
+      "name": "Uranus",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranus"
+    },
+    {
+      "name": "Sattp",
+      "type": "procedure",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sattp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Utp",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "utp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Neptunebiome",
+      "type": "biome",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neptunebiome"
+    },
+    {
+      "name": "Neptune",
+      "type": "dimension",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neptune"
+    },
+    {
+      "name": "Ntp",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ntp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AleinTressure",
+      "type": "loottable",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alein_tressure"
+    },
+    {
+      "name": "Rocketpainting",
+      "type": "painting",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocketpainting"
+    },
+    {
+      "name": "Lander",
+      "type": "mob",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lander"
+    },
+    {
+      "name": "Curseofspace",
+      "type": "enchantment",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spacecurse"
+    },
+    {
+      "name": "Rting",
+      "type": "painting",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rting"
+    },
+    {
+      "name": "Astroids",
+      "type": "biome",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "astroids"
+    },
+    {
+      "name": "AstroidBelt",
+      "type": "dimension",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "astroid_belt"
+    },
+    {
+      "name": "Atp",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pa2nell",
+      "type": "gui",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pa_2nell"
+    },
+    {
+      "name": "Guitrigger1",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guitrigger_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Guitrigger2",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "guitrigger_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sunbiome",
+      "type": "biome",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunbiome"
+    },
+    {
+      "name": "Sun",
+      "type": "dimension",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun"
+    },
+    {
+      "name": "Suntp",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "suntp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tier2rocket",
+      "type": "mob",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tier_2rocket"
+    },
+    {
+      "name": "Centuribiome",
+      "type": "biome",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "centuribiome"
+    },
+    {
+      "name": "Centuri",
+      "type": "dimension",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "centuri"
+    },
+    {
+      "name": "Centuritp",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "centuritp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ceresbiome",
+      "type": "biome",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ceresbiome"
+    },
+    {
+      "name": "Ceres",
+      "type": "dimension",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ceres"
+    },
+    {
+      "name": "Cerestp",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cerestp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MoonStone",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moon_stone"
+    },
+    {
+      "name": "Moonbiome",
+      "type": "biome",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moonbiome"
+    },
+    {
+      "name": "Moon2",
+      "type": "dimension",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moon_2"
+    },
+    {
+      "name": "Moon",
+      "type": "dimension",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moon"
+    },
+    {
+      "name": "Moon2tp",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moon_2tp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Moontp",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moontp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RantiumDust",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_dust"
+    },
+    {
+      "name": "RantiumOre",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_ore"
+    },
+    {
+      "name": "RantiumBlock",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_block"
+    },
+    {
+      "name": "RantiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_ore_block_recipe"
+    },
+    {
+      "name": "RantiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_block_ore_recipe"
+    },
+    {
+      "name": "RantiumOreSmelting",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_ore_smelting"
+    },
+    {
+      "name": "RantiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_pickaxe_recipe"
+    },
+    {
+      "name": "RantiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_axe_recipe"
+    },
+    {
+      "name": "RantiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_sword_recipe"
+    },
+    {
+      "name": "RantiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_shovel_recipe"
+    },
+    {
+      "name": "RantiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rantium_hoe_recipe"
+    },
+    {
+      "name": "CH14Wood",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_wood"
+    },
+    {
+      "name": "CH14Log",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_log"
+    },
+    {
+      "name": "CH14Planks",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_planks"
+    },
+    {
+      "name": "CH14Leaves",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_leaves"
+    },
+    {
+      "name": "CH14Stairs",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_stairs"
+    },
+    {
+      "name": "CH14Slab",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_slab"
+    },
+    {
+      "name": "CH14Fence",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_fence"
+    },
+    {
+      "name": "CH14FenceGate",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_fence_gate"
+    },
+    {
+      "name": "CH14WoodRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_wood_recipe"
+    },
+    {
+      "name": "CH14PlanksRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_planks_recipe"
+    },
+    {
+      "name": "CH14StairsRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_stairs_recipe"
+    },
+    {
+      "name": "CH14SlabRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_slab_recipe"
+    },
+    {
+      "name": "CH14FenceRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_fence_recipe"
+    },
+    {
+      "name": "CH14FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_fence_gate_recipe"
+    },
+    {
+      "name": "CH14StickRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_14_stick_recipe"
+    },
+    {
+      "name": "CH15Wood",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_wood"
+    },
+    {
+      "name": "CH15Log",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_log"
+    },
+    {
+      "name": "CH15Planks",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_planks"
+    },
+    {
+      "name": "CH15Leaves",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_leaves"
+    },
+    {
+      "name": "CH15Stairs",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_stairs"
+    },
+    {
+      "name": "CH15Slab",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_slab"
+    },
+    {
+      "name": "CH15Fence",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_fence"
+    },
+    {
+      "name": "CH15FenceGate",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_fence_gate"
+    },
+    {
+      "name": "CH15WoodRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_wood_recipe"
+    },
+    {
+      "name": "CH15PlanksRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_planks_recipe"
+    },
+    {
+      "name": "CH15StairsRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_stairs_recipe"
+    },
+    {
+      "name": "CH15SlabRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_slab_recipe"
+    },
+    {
+      "name": "CH15FenceRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_fence_recipe"
+    },
+    {
+      "name": "CH15FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_fence_gate_recipe"
+    },
+    {
+      "name": "CH15StickRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_15_stick_recipe"
+    },
+    {
+      "name": "Plutobiome",
+      "type": "biome",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plutobiome"
+    },
+    {
+      "name": "Pluto",
+      "type": "dimension",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pluto"
+    },
+    {
+      "name": "Ptp",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ptp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Haumeaflat",
+      "type": "biome",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haumeaflat"
+    },
+    {
+      "name": "Haumea",
+      "type": "dimension",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haumea"
+    },
+    {
+      "name": "HaumeaTP",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "haumea_tp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MakeMakeBiome",
+      "type": "biome",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_make_biome"
+    },
+    {
+      "name": "MakeMake",
+      "type": "dimension",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_make"
+    },
+    {
+      "name": "MakeMakeTP",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_make_tp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ErisBiome",
+      "type": "biome",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eris_biome"
+    },
+    {
+      "name": "Eris",
+      "type": "dimension",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eris"
+    },
+    {
+      "name": "Eristp",
+      "type": "procedure",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eristp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kupierbiome",
+      "type": "biome",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kupierbiome"
+    },
+    {
+      "name": "Kupier",
+      "type": "dimension",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kupier"
+    },
+    {
+      "name": "Kupertp",
+      "type": "procedure",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kupertp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MoonBiomes",
+      "type": "biome",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moon_biomes"
+    },
+    {
+      "name": "Phobos",
+      "type": "dimension",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "phobos"
+    },
+    {
+      "name": "Deimos",
+      "type": "dimension",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deimos"
+    },
+    {
+      "name": "Phtp",
+      "type": "procedure",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "phtp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Demtp",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demtp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AleinMeal",
+      "type": "food",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alein_meal"
+    },
+    {
+      "name": "Ailen",
+      "type": "mob",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ailen"
+    },
+    {
+      "name": "AgressiveAlein",
+      "type": "mob",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "agressive_alein"
+    },
+    {
+      "name": "Riscommand",
+      "type": "procedure",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "riscommand",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reallyinspace",
+      "type": "command",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reallyinspace"
+    },
+    {
+      "name": "CH16Wood",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_wood"
+    },
+    {
+      "name": "CH16Log",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_log"
+    },
+    {
+      "name": "CH16Planks",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_planks"
+    },
+    {
+      "name": "CH16Leaves",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_leaves"
+    },
+    {
+      "name": "CH16Stairs",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_stairs"
+    },
+    {
+      "name": "CH16Slab",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_slab"
+    },
+    {
+      "name": "CH16Fence",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_fence"
+    },
+    {
+      "name": "CH16FenceGate",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_fence_gate"
+    },
+    {
+      "name": "CH16WoodRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_wood_recipe"
+    },
+    {
+      "name": "CH16PlanksRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_planks_recipe"
+    },
+    {
+      "name": "CH16StairsRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_stairs_recipe"
+    },
+    {
+      "name": "CH16SlabRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_slab_recipe"
+    },
+    {
+      "name": "CH16FenceRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_fence_recipe"
+    },
+    {
+      "name": "CH16FenceGateRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_fence_gate_recipe"
+    },
+    {
+      "name": "CH16StickRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ch_16_stick_recipe"
+    },
+    {
+      "name": "MantonIngot",
+      "type": "item",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_ingot"
+    },
+    {
+      "name": "MantonBlock",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_block"
+    },
+    {
+      "name": "MantonOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_ore_block_recipe"
+    },
+    {
+      "name": "MantonBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_block_ore_recipe"
+    },
+    {
+      "name": "MantonOreSmelting",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_ore_smelting"
+    },
+    {
+      "name": "MantonPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_pickaxe_recipe"
+    },
+    {
+      "name": "MantonAxeRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_axe_recipe"
+    },
+    {
+      "name": "MantonSwordRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_sword_recipe"
+    },
+    {
+      "name": "MantonShovelRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_shovel_recipe"
+    },
+    {
+      "name": "MantonHoeRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manton_hoe_recipe"
+    },
+    {
+      "name": "Battery",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery"
+    },
+    {
+      "name": "BatteryGUI",
+      "type": "gui",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery_gui"
+    },
+    {
+      "name": "OreCompresser",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_compresser"
+    },
+    {
+      "name": "AilenBoss",
+      "type": "mob",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ailen_boss"
+    },
+    {
+      "name": "NASAStatoion",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nasa_statoion"
+    },
+    {
+      "name": "NASABIGStation",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nasabig_station"
+    },
+    {
+      "name": "Batteryrecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batteryrecipe"
+    },
+    {
+      "name": "Bigstationr",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bigstationr"
+    },
+    {
+      "name": "ReallyInSpacea",
+      "type": "achievement",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "really_in_spacea"
+    },
+    {
+      "name": "TheMoonIsNear",
+      "type": "achievement",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_moon_is_near"
+    },
+    {
+      "name": "LeaveMeAlone",
+      "type": "achievement",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave_me_alone"
+    },
+    {
+      "name": "TheHeatInYourFeet",
+      "type": "achievement",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_heat_in_your_feet"
+    },
+    {
+      "name": "PlaceInSpace",
+      "type": "achievement",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "place_in_space"
+    },
+    {
+      "name": "TheSpaceExplorer",
+      "type": "achievement",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_space_explorer"
+    },
+    {
+      "name": "CurseOfMars",
+      "type": "enchantment",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marscurse"
+    },
+    {
+      "name": "NasastationGUI",
+      "type": "gui",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nasastation_gui"
+    },
+    {
+      "name": "Cboard",
+      "type": "item",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cboard"
+    },
+    {
+      "name": "Stationr",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stationr"
+    },
+    {
+      "name": "IC",
+      "type": "item",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ic"
+    },
+    {
+      "name": "Capacitor",
+      "type": "item",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "capacitor"
+    },
+    {
+      "name": "Resistor",
+      "type": "item",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resistor"
+    },
+    {
+      "name": "Circutboard",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "circutboard"
+    },
+    {
+      "name": "ResistorRecipie",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resistor_recipie"
+    },
+    {
+      "name": "RecipieIC",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipie_ic"
+    },
+    {
+      "name": "LIFToFfThERoCkEt",
+      "type": "procedure",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lif_to_ff_th_e_ro_ck_et",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pannel2",
+      "type": "gui",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pannel_2"
+    },
+    {
+      "name": "ReaguarAlein",
+      "type": "mob",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reaguar_alein"
+    },
+    {
+      "name": "Stargazer",
+      "type": "gui",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stargazer"
+    },
+    {
+      "name": "Stargazerblock",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stargazerblock"
+    },
+    {
+      "name": "Takeinstarfinderitem",
+      "type": "procedure",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "takeinstarfinderitem",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StarFinderitem",
+      "type": "item",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_finderitem"
+    },
+    {
+      "name": "Rmaker1",
+      "type": "procedure",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rmaker_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rmaker2",
+      "type": "procedure",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rmaker_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FuisonTable",
+      "type": "gui",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fuison_table"
+    },
+    {
+      "name": "Rocketcreator",
+      "type": "gui",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocketcreator"
+    },
+    {
+      "name": "Rocketablecraftrockets",
+      "type": "procedure",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocketablecraftrockets",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Craftrockets",
+      "type": "procedure",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftrockets",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RocketTable",
+      "type": "block",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocket_table"
+    },
+    {
+      "name": "ItemConverter",
+      "type": "procedure",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_converter",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ItemFixer",
+      "type": "item",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_fixer"
+    },
+    {
+      "name": "Fixing",
+      "type": "enchantment",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fixing"
+    },
+    {
+      "name": "Bullet",
+      "type": "gun",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet"
+    },
+    {
+      "name": "AEK971Gun",
+      "type": "item",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aek_971_gun"
+    },
+    {
+      "name": "ReallyInSpaceGuns",
+      "type": "tab",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "really_in_space_guns"
+    },
+    {
+      "name": "OPenCraftinggrid",
+      "type": "procedure",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "o_pen_craftinggrid",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_gb": {
+      "block.rismod.jupiter_rock": "Jupiter Rock",
+      "item.ris.resistor": "Resistor",
+      "biome.ris.plutobiome": "Plutobiome",
+      "block.ris.ch_15_stairs": "CH15 Stairs",
+      "enchantment.ris.fixing": "Fixing",
+      "block.ris.ch_16_stairs": "CH16 Stairs",
+      "block.ris.ch_14_stairs": "CH14 Stairs",
+      "item.rismod.venusdimension": "Venus Rocket",
+      "block.ris.martian_slab": "Martian Slab",
+      "block.ris.rantium_block": "Block of Rantium",
+      "block.ris.martian_planks": "Martian Planks",
+      "item.rismod.galaxium_sword": "Galaxium Sword",
+      "item.ris.eris": "Eris Rocket",
+      "biome.ris.saturnb": "Saturnbiome",
+      "block.rismod.martian_log": "Martian Log",
+      "enchantment.ris.marscurse": "Curse Of Mars",
+      "biome.ris.venus": "Venus",
+      "entity.rismod.rocket": "Rocket",
+      "biome.ris.neptunebiome": "Neptunebiome",
+      "item.rismod.galaxium_hoe": "Galaxium Hoe",
+      "block.ris.ch_14_slab": "CH14 Slab",
+      "item.ris.alein_meal": "Alein Meal",
+      "block.rismod.martian_planks": "Martian Planks",
+      "block.ris.ch_14_leaves": "CH14 Leaves",
+      "item.rismod.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.uranus": "Uranus Rocket",
+      "block.ris.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_planks": "Martian Planks",
+      "block.ris.ch_14_fence_gate": "CH14 Fence Gate",
+      "advancements.the_space_explorer.descr": "Go to eris",
+      "block.ris.portal": "Portal",
+      "advancements.leave_me_alone.title": "Leave Me Alone",
+      "block.ris.ch_16_slab": "CH16 Slab",
+      "item.ris.alein_meal.shift.tooltip1": "Some Food",
+      "block.ris.ch_15_fence_gate": "CH15 Fence Gate",
+      "block.ris.ch_16_leaves": "CH16 Leaves",
+      "item.rismod.mars": "Mars Rocket",
+      "block.rismod.martian_fence_gate": "Martian Fence Gate",
+      "block.ris.ch_14_fence": "CH14 Fence",
+      "block.ris.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.haumea": "Haumea Rocket",
+      "item.ris.aek_971_gun": "AEK971",
+      "biome.ris.uranusbiome": "Uranusbiome",
+      "item.ris.deimos": "Deimos Rocket",
+      "item.rismod.galaxium_axe": "Galaxium Axe",
+      "block.spacecraftforge.martian_slab": "Martian Slab",
+      "block.ris.ch_15_log": "CH15 Log",
+      "advancements.place_in_space.title": "Place In Space",
+      "biome.ris.moon_biomes": "Moon Biomes",
+      "item.ris.ailen_spawn_egg": "Ailen Spawn Egg",
+      "item.ris.mars": "Mars Rocket",
+      "advancements.the_heat_in_your_feet.title": "The Heat In Your Feet",
+      "biome.ris.moonbiome": "Moon biome",
+      "item.rismod.jupiterdim": "Jupiter Rocket",
+      "block.rismod.portal": "Portal",
+      "block.rismod.mercsoil": "Mercsoil",
+      "block.ris.martian_stone": "Martian Stone",
+      "advancements.leave_me_alone.descr": "Leave the aliens in Peace",
+      "item.ris.astroid_belt": "Astroid Rocket",
+      "biome.spacecraftforge.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_15_slab": "CH15 Slab",
+      "item.ris.alein_meal.command.tooltip1": "Hello?",
+      "block.ris.martian_fence": "Martian Fence",
+      "block.ris.stargazerblock": "Stargazer",
+      "advancements.the_moon_is_near.title": "The Moon Is Near",
+      "item.rismod.galaxium_shovel": "Galaxium Shovel",
+      "entity.ris.lander": "Lander",
+      "biome.ris.jupiter": "Jupiter",
+      "advancements.really_in_spacea.title": "Really In Space",
+      "entity.ris.rocket": "Rocket",
+      "entity.ris.ailen": "Ailen",
+      "itemGroup.tabris": "RIS",
+      "biome.ris.marsflat": "Marsflat",
+      "item.ris.item_fixer": "Item Fixer",
+      "block.ris.rantium_ore": "Rantium Ore",
+      "entity.ris.agressive_alein": "Agressive Alein",
+      "entity.ris.ailen_boss": "Ailen Boss",
+      "block.ris.moon_stone": "Moon Stone",
+      "block.spacecraftforge.martian_stairs": "Martian Stairs",
+      "item.ris.lander_spawn_egg": "Lander Spawn Egg",
+      "item.ris.mercdim": "Mercury Rocket",
+      "biome.rismod.venus": "Venus",
+      "block.rismod.martian_stairs": "Martian Stairs",
+      "advancements.the_space_explorer.title": "The Space Explorer",
+      "biome.rismod.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_16_fence_gate": "CH16 Fence Gate",
+      "item.ris.make_make": "MakeMake Rocket",
+      "item.ris.cboard": "Circut board",
+      "block.ris.nasa_statoion": "NASA Statoion",
+      "block.rismod.martian_slab": "Martian Slab",
+      "item.ris.agressive_alein_spawn_egg": "Agressive Alein Spawn Egg",
+      "block.ris.ch_14_wood": "CH14 Wood",
+      "item.ris.reaguar_alein_spawn_egg": "Reaguar Alein Spawn Egg",
+      "block.spacecraftforge.mercsoil": "Mercsoil",
+      "block.ris.martian_leaves": "Martian Leaves",
+      "block.spacecraftforge.martian_leaves": "Martian Leaves",
+      "item.ris.saturn": "Saturn Rocket",
+      "item.ris.galaxium_dust": "Galaxium",
+      "block.ris.ch_15_fence": "CH15 Fence",
+      "biome.ris.astroids": "Astroids",
+      "biome.ris.make_make_biome": "Make Make Biome",
+      "biome.ris.eris_biome": "Eris Biome",
+      "biome.ris.ceresbiome": "Ceresbiome",
+      "advancements.the_moon_is_near.descr": "Go to The moon",
+      "item.rismod.galaxium_armor_helmet": "Galaxium Helmet",
+      "item.ris.rc": "Rocket Controller",
+      "biome.ris.haumeaflat": "Haumeaflat",
+      "item.ris.capacitor": "Capacitor",
+      "block.ris.nasabig_station": "NASA Big Station",
+      "biome.rismod.marsflat": "Marsflat",
+      "itemGroup.tabreally_in_space_guns": "Really In Space Guns",
+      "item.ris.neptune": "Neptune Rocket",
+      "block.ris.ch_14_planks": "CH14 Planks",
+      "block.ris.ch_16_planks": "CH16 Planks",
+      "item.ris.sun": "Sun Rocket",
+      "item.ris.venusdimension": "Venus Rocket",
+      "item.rismod.galaxium_armor_chestplate": "Galaxium Chestplate",
+      "block.rismod.martian_leaves": "Martian Leaves",
+      "entity.ris.reaguar_alein": "Reaguar Alein",
+      "biome.ris.kupierbiome": "Kupierbiome",
+      "biome.ris.mercfltbiomes": "MercFlatBiome",
+      "item.rismod.galaxium_pickaxe": "Galaxium Pickaxe",
+      "item.ris.tier_2rocket_spawn_egg": "Tier 2rocket Spawn Egg",
+      "item.ris.moon": "Moon Rocket",
+      "advancements.really_in_spacea.descr": "Install The Really In Space mod",
+      "block.ris.martian_log": "Martian Log",
+      "entity.spacecraftforge.rocket": "Rocket",
+      "block.ris.ch_16_wood": "CH16 Wood",
+      "enchantment.ris.spacecurse": "Curse of space",
+      "item.ris.ic": "IC",
+      "block.rismod.martian_stone": "Martian Stone",
+      "advancements.place_in_space.descr": "Place Moon Stone",
+      "item.rismod.mercdim": "Mercury Rocket",
+      "item.ris.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.moon_2": "Moon#2 Rocket",
+      "block.ris.galaxium_ore": "Galaxium Ore",
+      "item.ris.star_finderitem": "Star Finder",
+      "block.ris.battery": "Battery",
+      "block.rismod.galaxium_ore": "Galaxium Ore",
+      "block.rismod.compressedmagma": "Compressed magma",
+      "biome.rismod.jupiter": "Jupiter",
+      "item.ris.jupiterdim": "Jupiter Rocket",
+      "item.ris.rantium_dust": "Rantium",
+      "block.ris.manton_block": "Block of Manton",
+      "block.spacecraftforge.martian_log": "Martian Log",
+      "block.rismod.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_wood": "Martian Wood",
+      "block.spacecraftforge.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.bullet": "Bullet",
+      "item.ris.pluto": "Pluto Rocket",
+      "advancements.the_heat_in_your_feet.descr": "Go to the sun",
+      "block.ris.ch_14_log": "CH14 Log",
+      "item.spacecraftforge.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.centuri": "Centuri Rocket",
+      "item.ris.manton_ingot": "Manton",
+      "block.rismod.martian_wood": "Martian Wood",
+      "item.ris.ailen_boss_spawn_egg": "Ailen Boss Spawn Egg",
+      "block.ris.martian_stairs": "Martian Stairs",
+      "block.ris.ch_15_leaves": "CH15 Leaves",
+      "item.rismod.galaxium_dust": "Galaxium",
+      "block.ris.mercsoil": "Mercsoil",
+      "block.ris.ch_15_wood": "CH15 Wood",
+      "block.ris.compressedmagma": "Compressed magma",
+      "block.ris.ore_compresser": "Ore Compresser",
+      "biome.ris.sunbiome": "Sunbiome",
+      "block.ris.ch_15_planks": "CH15 Planks",
+      "item.ris.kupier": "Kupier Rocket",
+      "block.ris.rocket_table": "Rocket Table",
+      "item.ris.ceres": "Ceres Rocket",
+      "block.rismod.martian_fence": "Martian Fence",
+      "item.rismod.galaxium_armor_leggings": "Galaxium Leggings",
+      "block.ris.ch_16_fence": "CH16 Fence",
+      "biome.ris.centuribiome": "Centuribiome",
+      "item.rismod.galaxium_armor_boots": "Galaxium Boots",
+      "block.spacecraftforge.martian_fence": "Martian Fence",
+      "entity.ris.tier_2rocket": "Tier 2rocket",
+      "block.ris.ch_16_log": "CH16 Log",
+      "item.ris.phobos": "Phobos Rocket"
+    },
+    "en_us": {
+      "block.rismod.jupiter_rock": "Jupiter Rock",
+      "item.ris.resistor": "Resistor",
+      "biome.ris.plutobiome": "Plutobiome",
+      "block.ris.ch_15_stairs": "CH15 Stairs",
+      "enchantment.ris.fixing": "Fixing",
+      "block.ris.ch_16_stairs": "CH16 Stairs",
+      "block.ris.ch_14_stairs": "CH14 Stairs",
+      "item.rismod.venusdimension": "Venus Rocket",
+      "block.ris.martian_slab": "Martian Slab",
+      "block.ris.rantium_block": "Block of Rantium",
+      "block.ris.martian_planks": "Martian Planks",
+      "item.rismod.galaxium_sword": "Galaxium Sword",
+      "item.ris.eris": "Eris Rocket",
+      "biome.ris.saturnb": "Saturnbiome",
+      "block.rismod.martian_log": "Martian Log",
+      "enchantment.ris.marscurse": "Curse Of Mars",
+      "biome.ris.venus": "Venus",
+      "entity.rismod.rocket": "Rocket",
+      "biome.ris.neptunebiome": "Neptunebiome",
+      "item.rismod.galaxium_hoe": "Galaxium Hoe",
+      "block.ris.ch_14_slab": "CH14 Slab",
+      "item.ris.alein_meal": "Alein Meal",
+      "block.rismod.martian_planks": "Martian Planks",
+      "block.ris.ch_14_leaves": "CH14 Leaves",
+      "item.rismod.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.uranus": "Uranus Rocket",
+      "block.ris.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_planks": "Martian Planks",
+      "block.ris.ch_14_fence_gate": "CH14 Fence Gate",
+      "advancements.the_space_explorer.descr": "Go to eris",
+      "block.ris.portal": "Portal",
+      "advancements.leave_me_alone.title": "Leave Me Alone",
+      "block.ris.ch_16_slab": "CH16 Slab",
+      "item.ris.alein_meal.shift.tooltip1": "Some Food",
+      "block.ris.ch_15_fence_gate": "CH15 Fence Gate",
+      "block.ris.ch_16_leaves": "CH16 Leaves",
+      "item.rismod.mars": "Mars Rocket",
+      "block.rismod.martian_fence_gate": "Martian Fence Gate",
+      "block.ris.ch_14_fence": "CH14 Fence",
+      "block.ris.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.haumea": "Haumea Rocket",
+      "item.ris.aek_971_gun": "AEK971",
+      "biome.ris.uranusbiome": "Uranusbiome",
+      "item.ris.deimos": "Deimos Rocket",
+      "item.rismod.galaxium_axe": "Galaxium Axe",
+      "block.spacecraftforge.martian_slab": "Martian Slab",
+      "block.ris.ch_15_log": "CH15 Log",
+      "advancements.place_in_space.title": "Place In Space",
+      "biome.ris.moon_biomes": "Moon Biomes",
+      "item.ris.ailen_spawn_egg": "Alien Spawn Egg",
+      "item.ris.mars": "Mars Rocket",
+      "advancements.the_heat_in_your_feet.title": "The Heat In Your Feet",
+      "biome.ris.moonbiome": "Moon biome",
+      "item.rismod.jupiterdim": "Jupiter Rocket",
+      "block.rismod.portal": "Portal",
+      "block.rismod.mercsoil": "Mercsoil",
+      "block.ris.martian_stone": "Martian Stone",
+      "advancements.leave_me_alone.descr": "Leave the aliens in Peace",
+      "item.ris.astroid_belt": "Astroid Rocket",
+      "biome.spacecraftforge.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_15_slab": "CH15 Slab",
+      "item.ris.alein_meal.command.tooltip1": "Hello?",
+      "block.ris.martian_fence": "Martian Fence",
+      "block.ris.stargazerblock": "Stargazer",
+      "advancements.the_moon_is_near.title": "The Moon Is Near",
+      "item.rismod.galaxium_shovel": "Galaxium Shovel",
+      "entity.ris.lander": "Lander",
+      "biome.ris.jupiter": "Jupiter",
+      "advancements.really_in_spacea.title": "Really In Space",
+      "entity.ris.rocket": "Rocket",
+      "entity.ris.ailen": "Alien",
+      "itemGroup.tabris": "Really In Space",
+      "biome.ris.marsflat": "Marsflat",
+      "item.ris.item_fixer": "Item Fixer",
+      "block.ris.rantium_ore": "Rantium Ore",
+      "entity.ris.agressive_alein": "Agressive Alein",
+      "entity.ris.ailen_boss": "Ailen Boss",
+      "block.ris.moon_stone": "Moon Stone",
+      "block.spacecraftforge.martian_stairs": "Martian Stairs",
+      "item.ris.lander_spawn_egg": "Lander Spawn Egg",
+      "item.ris.mercdim": "Mercury Rocket",
+      "biome.rismod.venus": "Venus",
+      "block.rismod.martian_stairs": "Martian Stairs",
+      "advancements.the_space_explorer.title": "The Space Explorer",
+      "biome.rismod.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_16_fence_gate": "CH16 Fence Gate",
+      "item.ris.make_make": "MakeMake Rocket",
+      "item.ris.cboard": "Circut board",
+      "block.ris.nasa_statoion": "NASA Statoion",
+      "block.rismod.martian_slab": "Martian Slab",
+      "item.ris.agressive_alein_spawn_egg": "Agressive Alein Spawn Egg",
+      "block.ris.ch_14_wood": "CH14 Wood",
+      "item.ris.reaguar_alein_spawn_egg": "Reaguar Alein Spawn Egg",
+      "block.spacecraftforge.mercsoil": "Mercsoil",
+      "block.ris.martian_leaves": "Martian Leaves",
+      "block.spacecraftforge.martian_leaves": "Martian Leaves",
+      "item.ris.saturn": "Saturn Rocket",
+      "item.ris.galaxium_dust": "Galaxium",
+      "block.ris.ch_15_fence": "CH15 Fence",
+      "biome.ris.astroids": "Astroids",
+      "biome.ris.make_make_biome": "Make Make Biome",
+      "biome.ris.eris_biome": "Eris Biome",
+      "biome.ris.ceresbiome": "Ceresbiome",
+      "advancements.the_moon_is_near.descr": "Go to The moon",
+      "item.rismod.galaxium_armor_helmet": "Galaxium Helmet",
+      "item.ris.rc": "Rocket Controller",
+      "biome.ris.haumeaflat": "Haumeaflat",
+      "item.ris.capacitor": "Capacitor",
+      "block.ris.nasabig_station": "NASA Big Station",
+      "biome.rismod.marsflat": "Marsflat",
+      "itemGroup.tabreally_in_space_guns": "Really In Space Guns",
+      "item.ris.neptune": "Neptune Rocket",
+      "block.ris.ch_14_planks": "CH14 Planks",
+      "block.ris.ch_16_planks": "CH16 Planks",
+      "item.ris.sun": "Sun Rocket",
+      "item.ris.venusdimension": "Venus Rocket",
+      "item.rismod.galaxium_armor_chestplate": "Galaxium Chestplate",
+      "block.rismod.martian_leaves": "Martian Leaves",
+      "entity.ris.reaguar_alein": "Reaguar Alein",
+      "biome.ris.kupierbiome": "Kupierbiome",
+      "biome.ris.mercfltbiomes": "MercFlatBiome",
+      "item.rismod.galaxium_pickaxe": "Galaxium Pickaxe",
+      "item.ris.tier_2rocket_spawn_egg": "Tier 2 Rocket Spawn Egg",
+      "item.ris.moon": "Moon Rocket",
+      "advancements.really_in_spacea.descr": "Install The Really In Space mod",
+      "block.ris.martian_log": "Martian Log",
+      "entity.spacecraftforge.rocket": "Rocket",
+      "block.ris.ch_16_wood": "CH16 Wood",
+      "enchantment.ris.spacecurse": "Curse of space",
+      "item.ris.ic": "IC",
+      "block.rismod.martian_stone": "Martian Stone",
+      "advancements.place_in_space.descr": "Place Moon Stone",
+      "item.rismod.mercdim": "Mercury Rocket",
+      "item.ris.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.moon_2": "Moon#2 Rocket",
+      "block.ris.galaxium_ore": "Galaxium Ore",
+      "item.ris.star_finderitem": "Star Finder",
+      "block.ris.battery": "Battery",
+      "block.rismod.galaxium_ore": "Galaxium Ore",
+      "block.rismod.compressedmagma": "Compressed magma",
+      "biome.rismod.jupiter": "Jupiter",
+      "item.ris.jupiterdim": "Jupiter Rocket",
+      "item.ris.rantium_dust": "Rantium",
+      "block.ris.manton_block": "Block of Manton",
+      "block.spacecraftforge.martian_log": "Martian Log",
+      "block.rismod.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_wood": "Martian Wood",
+      "block.spacecraftforge.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.bullet": "Bullet",
+      "item.ris.pluto": "Pluto Rocket",
+      "advancements.the_heat_in_your_feet.descr": "Go to the sun",
+      "block.ris.ch_14_log": "CH14 Log",
+      "item.spacecraftforge.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.centuri": "Centuri Rocket",
+      "item.ris.manton_ingot": "Manton",
+      "block.rismod.martian_wood": "Martian Wood",
+      "item.ris.ailen_boss_spawn_egg": "Ailen Boss Spawn Egg",
+      "block.ris.martian_stairs": "Martian Stairs",
+      "block.ris.ch_15_leaves": "CH15 Leaves",
+      "item.rismod.galaxium_dust": "Galaxium",
+      "block.ris.mercsoil": "Mercsoil",
+      "block.ris.ch_15_wood": "CH15 Wood",
+      "block.ris.compressedmagma": "Compressed magma",
+      "block.ris.ore_compresser": "Ore Compresser",
+      "biome.ris.sunbiome": "Sunbiome",
+      "block.ris.ch_15_planks": "CH15 Planks",
+      "item.ris.kupier": "Kupier Rocket",
+      "block.ris.rocket_table": "Rocket Table",
+      "item.ris.ceres": "Ceres Rocket",
+      "block.rismod.martian_fence": "Martian Fence",
+      "item.rismod.galaxium_armor_leggings": "Galaxium Leggings",
+      "block.ris.ch_16_fence": "CH16 Fence",
+      "biome.ris.centuribiome": "Centuribiome",
+      "item.rismod.galaxium_armor_boots": "Galaxium Boots",
+      "block.spacecraftforge.martian_fence": "Martian Fence",
+      "entity.ris.tier_2rocket": "Tier 2 Rocket",
+      "block.ris.ch_16_log": "CH16 Log",
+      "item.ris.phobos": "Phobos Rocket"
+    },
+    "hi_in": {
+      "block.rismod.jupiter_rock": "Jupiter Rock",
+      "item.ris.resistor": "Resistor",
+      "biome.ris.plutobiome": "Plutobiome",
+      "block.ris.ch_15_stairs": "CH15 Stairs",
+      "enchantment.ris.fixing": "Fixing",
+      "block.ris.ch_16_stairs": "CH16 Stairs",
+      "block.ris.ch_14_stairs": "CH14 Stairs",
+      "item.rismod.venusdimension": "Venus Rocket",
+      "block.ris.martian_slab": "Martian Slab",
+      "block.ris.rantium_block": "Block of Rantium",
+      "block.ris.martian_planks": "Martian Planks",
+      "item.rismod.galaxium_sword": "Galaxium Sword",
+      "item.ris.eris": "Eris Rocket",
+      "biome.ris.saturnb": "Saturnbiome",
+      "block.rismod.martian_log": "Martian Log",
+      "enchantment.ris.marscurse": "Curse Of Mars",
+      "biome.ris.venus": "Venus",
+      "entity.rismod.rocket": "Rocket",
+      "biome.ris.neptunebiome": "Neptunebiome",
+      "item.rismod.galaxium_hoe": "Galaxium Hoe",
+      "block.ris.ch_14_slab": "CH14 Slab",
+      "item.ris.alein_meal": "Alein Meal",
+      "block.rismod.martian_planks": "Martian Planks",
+      "block.ris.ch_14_leaves": "CH14 Leaves",
+      "item.rismod.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.uranus": "Uranus Rocket",
+      "block.ris.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_planks": "Martian Planks",
+      "block.ris.ch_14_fence_gate": "CH14 Fence Gate",
+      "advancements.the_space_explorer.descr": "Go to eris",
+      "block.ris.portal": "Portal",
+      "advancements.leave_me_alone.title": "Leave Me Alone",
+      "block.ris.ch_16_slab": "CH16 Slab",
+      "item.ris.alein_meal.shift.tooltip1": "Some Food",
+      "block.ris.ch_15_fence_gate": "CH15 Fence Gate",
+      "block.ris.ch_16_leaves": "CH16 Leaves",
+      "item.rismod.mars": "Mars Rocket",
+      "block.rismod.martian_fence_gate": "Martian Fence Gate",
+      "block.ris.ch_14_fence": "CH14 Fence",
+      "block.ris.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.haumea": "Haumea Rocket",
+      "item.ris.aek_971_gun": "AEK971",
+      "biome.ris.uranusbiome": "Uranusbiome",
+      "item.ris.deimos": "Deimos Rocket",
+      "item.rismod.galaxium_axe": "Galaxium Axe",
+      "block.spacecraftforge.martian_slab": "Martian Slab",
+      "block.ris.ch_15_log": "CH15 Log",
+      "advancements.place_in_space.title": "Place In Space",
+      "biome.ris.moon_biomes": "Moon Biomes",
+      "item.ris.ailen_spawn_egg": "Ailen Spawn Egg",
+      "item.ris.mars": "Mars Rocket",
+      "advancements.the_heat_in_your_feet.title": "The Heat In Your Feet",
+      "biome.ris.moonbiome": "Moon biome",
+      "item.rismod.jupiterdim": "Jupiter Rocket",
+      "block.rismod.portal": "Portal",
+      "block.rismod.mercsoil": "Mercsoil",
+      "block.ris.martian_stone": "Martian Stone",
+      "advancements.leave_me_alone.descr": "Leave the aliens in Peace",
+      "item.ris.astroid_belt": "Astroid Rocket",
+      "biome.spacecraftforge.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_15_slab": "CH15 Slab",
+      "item.ris.alein_meal.command.tooltip1": "Hello?",
+      "block.ris.martian_fence": "Martian Fence",
+      "block.ris.stargazerblock": "Stargazer",
+      "advancements.the_moon_is_near.title": "The Moon Is Near",
+      "item.rismod.galaxium_shovel": "Galaxium Shovel",
+      "entity.ris.lander": "Lander",
+      "biome.ris.jupiter": "Jupiter",
+      "advancements.really_in_spacea.title": "Really In Space",
+      "entity.ris.rocket": "Rocket",
+      "entity.ris.ailen": "Ailen",
+      "itemGroup.tabris": "RIS",
+      "biome.ris.marsflat": "Marsflat",
+      "item.ris.item_fixer": "Item Fixer",
+      "block.ris.rantium_ore": "Rantium Ore",
+      "entity.ris.agressive_alein": "Agressive Alein",
+      "entity.ris.ailen_boss": "Ailen Boss",
+      "block.ris.moon_stone": "Moon Stone",
+      "block.spacecraftforge.martian_stairs": "Martian Stairs",
+      "item.ris.lander_spawn_egg": "Lander Spawn Egg",
+      "item.ris.mercdim": "Mercury Rocket",
+      "biome.rismod.venus": "Venus",
+      "block.rismod.martian_stairs": "Martian Stairs",
+      "advancements.the_space_explorer.title": "The Space Explorer",
+      "biome.rismod.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_16_fence_gate": "CH16 Fence Gate",
+      "item.ris.make_make": "MakeMake Rocket",
+      "item.ris.cboard": "Circut board",
+      "block.ris.nasa_statoion": "NASA Statoion",
+      "block.rismod.martian_slab": "Martian Slab",
+      "item.ris.agressive_alein_spawn_egg": "Agressive Alein Spawn Egg",
+      "block.ris.ch_14_wood": "CH14 Wood",
+      "item.ris.reaguar_alein_spawn_egg": "Reaguar Alein Spawn Egg",
+      "block.spacecraftforge.mercsoil": "Mercsoil",
+      "block.ris.martian_leaves": "Martian Leaves",
+      "block.spacecraftforge.martian_leaves": "Martian Leaves",
+      "item.ris.saturn": "Saturn Rocket",
+      "item.ris.galaxium_dust": "Galaxium",
+      "block.ris.ch_15_fence": "CH15 Fence",
+      "biome.ris.astroids": "Astroids",
+      "biome.ris.make_make_biome": "Make Make Biome",
+      "biome.ris.eris_biome": "Eris Biome",
+      "biome.ris.ceresbiome": "Ceresbiome",
+      "advancements.the_moon_is_near.descr": "Go to The moon",
+      "item.rismod.galaxium_armor_helmet": "Galaxium Helmet",
+      "item.ris.rc": "Rocket Controller",
+      "biome.ris.haumeaflat": "Haumeaflat",
+      "item.ris.capacitor": "Capacitor",
+      "block.ris.nasabig_station": "NASA Big Station",
+      "biome.rismod.marsflat": "Marsflat",
+      "itemGroup.tabreally_in_space_guns": "Really In Space Guns",
+      "item.ris.neptune": "Neptune Rocket",
+      "block.ris.ch_14_planks": "CH14 Planks",
+      "block.ris.ch_16_planks": "CH16 Planks",
+      "item.ris.sun": "Sun Rocket",
+      "item.ris.venusdimension": "Venus Rocket",
+      "item.rismod.galaxium_armor_chestplate": "Galaxium Chestplate",
+      "block.rismod.martian_leaves": "Martian Leaves",
+      "entity.ris.reaguar_alein": "Reaguar Alein",
+      "biome.ris.kupierbiome": "Kupierbiome",
+      "biome.ris.mercfltbiomes": "MercFlatBiome",
+      "item.rismod.galaxium_pickaxe": "Galaxium Pickaxe",
+      "item.ris.tier_2rocket_spawn_egg": "Tier 2rocket Spawn Egg",
+      "item.ris.moon": "Moon Rocket",
+      "advancements.really_in_spacea.descr": "Install The Really In Space mod",
+      "block.ris.martian_log": "Martian Log",
+      "entity.spacecraftforge.rocket": "Rocket",
+      "block.ris.ch_16_wood": "CH16 Wood",
+      "enchantment.ris.spacecurse": "Curse of space",
+      "item.ris.ic": "IC",
+      "block.rismod.martian_stone": "Martian Stone",
+      "advancements.place_in_space.descr": "Place Moon Stone",
+      "item.rismod.mercdim": "Mercury Rocket",
+      "item.ris.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.moon_2": "Moon#2 Rocket",
+      "block.ris.galaxium_ore": "Galaxium Ore",
+      "item.ris.star_finderitem": "Star Finder",
+      "block.ris.battery": "Battery",
+      "block.rismod.galaxium_ore": "Galaxium Ore",
+      "block.rismod.compressedmagma": "Compressed magma",
+      "biome.rismod.jupiter": "Jupiter",
+      "item.ris.jupiterdim": "Jupiter Rocket",
+      "item.ris.rantium_dust": "Rantium",
+      "block.ris.manton_block": "Block of Manton",
+      "block.spacecraftforge.martian_log": "Martian Log",
+      "block.rismod.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_wood": "Martian Wood",
+      "block.spacecraftforge.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.bullet": "Bullet",
+      "item.ris.pluto": "Pluto Rocket",
+      "advancements.the_heat_in_your_feet.descr": "Go to the sun",
+      "block.ris.ch_14_log": "CH14 Log",
+      "item.spacecraftforge.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.centuri": "Centuri Rocket",
+      "item.ris.manton_ingot": "Manton",
+      "block.rismod.martian_wood": "Martian Wood",
+      "item.ris.ailen_boss_spawn_egg": "Ailen Boss Spawn Egg",
+      "block.ris.martian_stairs": "Martian Stairs",
+      "block.ris.ch_15_leaves": "CH15 Leaves",
+      "item.rismod.galaxium_dust": "Galaxium",
+      "block.ris.mercsoil": "Mercsoil",
+      "block.ris.ch_15_wood": "CH15 Wood",
+      "block.ris.compressedmagma": "Compressed magma",
+      "block.ris.ore_compresser": "Ore Compresser",
+      "biome.ris.sunbiome": "Sunbiome",
+      "block.ris.ch_15_planks": "CH15 Planks",
+      "item.ris.kupier": "Kupier Rocket",
+      "block.ris.rocket_table": "Rocket Table",
+      "item.ris.ceres": "Ceres Rocket",
+      "block.rismod.martian_fence": "Martian Fence",
+      "item.rismod.galaxium_armor_leggings": "Galaxium Leggings",
+      "block.ris.ch_16_fence": "CH16 Fence",
+      "biome.ris.centuribiome": "Centuribiome",
+      "item.rismod.galaxium_armor_boots": "Galaxium Boots",
+      "block.spacecraftforge.martian_fence": "Martian Fence",
+      "entity.ris.tier_2rocket": "Tier 2rocket",
+      "block.ris.ch_16_log": "CH16 Log",
+      "item.ris.phobos": "Phobos Rocket"
+    },
+    "en_in": {
+      "block.rismod.jupiter_rock": "Jupiter Rock",
+      "item.ris.resistor": "Resistor",
+      "biome.ris.plutobiome": "Plutobiome",
+      "block.ris.ch_15_stairs": "CH15 Stairs",
+      "enchantment.ris.fixing": "Fixing",
+      "block.ris.ch_16_stairs": "CH16 Stairs",
+      "block.ris.ch_14_stairs": "CH14 Stairs",
+      "item.rismod.venusdimension": "Venus Rocket",
+      "block.ris.martian_slab": "Martian Slab",
+      "block.ris.rantium_block": "Block of Rantium",
+      "block.ris.martian_planks": "Martian Planks",
+      "item.rismod.galaxium_sword": "Galaxium Sword",
+      "item.ris.eris": "Eris Rocket",
+      "biome.ris.saturnb": "Saturnbiome",
+      "block.rismod.martian_log": "Martian Log",
+      "enchantment.ris.marscurse": "Curse Of Mars",
+      "biome.ris.venus": "Venus",
+      "entity.rismod.rocket": "Rocket",
+      "biome.ris.neptunebiome": "Neptunebiome",
+      "item.rismod.galaxium_hoe": "Galaxium Hoe",
+      "block.ris.ch_14_slab": "CH14 Slab",
+      "item.ris.alein_meal": "Alein Meal",
+      "block.rismod.martian_planks": "Martian Planks",
+      "block.ris.ch_14_leaves": "CH14 Leaves",
+      "item.rismod.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.uranus": "Uranus Rocket",
+      "block.ris.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_planks": "Martian Planks",
+      "block.ris.ch_14_fence_gate": "CH14 Fence Gate",
+      "advancements.the_space_explorer.descr": "Go to eris",
+      "block.ris.portal": "Portal",
+      "advancements.leave_me_alone.title": "Leave Me Alone",
+      "block.ris.ch_16_slab": "CH16 Slab",
+      "item.ris.alein_meal.shift.tooltip1": "Some Food",
+      "block.ris.ch_15_fence_gate": "CH15 Fence Gate",
+      "block.ris.ch_16_leaves": "CH16 Leaves",
+      "item.rismod.mars": "Mars Rocket",
+      "block.rismod.martian_fence_gate": "Martian Fence Gate",
+      "block.ris.ch_14_fence": "CH14 Fence",
+      "block.ris.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.haumea": "Haumea Rocket",
+      "item.ris.aek_971_gun": "AEK971",
+      "biome.ris.uranusbiome": "Uranusbiome",
+      "item.ris.deimos": "Deimos Rocket",
+      "item.rismod.galaxium_axe": "Galaxium Axe",
+      "block.spacecraftforge.martian_slab": "Martian Slab",
+      "block.ris.ch_15_log": "CH15 Log",
+      "advancements.place_in_space.title": "Place In Space",
+      "biome.ris.moon_biomes": "Moon Biomes",
+      "item.ris.ailen_spawn_egg": "Ailen Spawn Egg",
+      "item.ris.mars": "Mars Rocket",
+      "advancements.the_heat_in_your_feet.title": "The Heat In Your Feet",
+      "biome.ris.moonbiome": "Moon biome",
+      "item.rismod.jupiterdim": "Jupiter Rocket",
+      "block.rismod.portal": "Portal",
+      "block.rismod.mercsoil": "Mercsoil",
+      "block.ris.martian_stone": "Martian Stone",
+      "advancements.leave_me_alone.descr": "Leave the aliens in Peace",
+      "item.ris.astroid_belt": "Astroid Rocket",
+      "biome.spacecraftforge.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_15_slab": "CH15 Slab",
+      "item.ris.alein_meal.command.tooltip1": "Hello?",
+      "block.ris.martian_fence": "Martian Fence",
+      "block.ris.stargazerblock": "Stargazer",
+      "advancements.the_moon_is_near.title": "The Moon Is Near",
+      "item.rismod.galaxium_shovel": "Galaxium Shovel",
+      "entity.ris.lander": "Lander",
+      "biome.ris.jupiter": "Jupiter",
+      "advancements.really_in_spacea.title": "Really In Space",
+      "entity.ris.rocket": "Rocket",
+      "entity.ris.ailen": "Ailen",
+      "itemGroup.tabris": "RIS",
+      "biome.ris.marsflat": "Marsflat",
+      "item.ris.item_fixer": "Item Fixer",
+      "block.ris.rantium_ore": "Rantium Ore",
+      "entity.ris.agressive_alein": "Agressive Alein",
+      "entity.ris.ailen_boss": "Ailen Boss",
+      "block.ris.moon_stone": "Moon Stone",
+      "block.spacecraftforge.martian_stairs": "Martian Stairs",
+      "item.ris.lander_spawn_egg": "Lander Spawn Egg",
+      "item.ris.mercdim": "Mercury Rocket",
+      "biome.rismod.venus": "Venus",
+      "block.rismod.martian_stairs": "Martian Stairs",
+      "advancements.the_space_explorer.title": "The Space Explorer",
+      "biome.rismod.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_16_fence_gate": "CH16 Fence Gate",
+      "item.ris.make_make": "MakeMake Rocket",
+      "item.ris.cboard": "Circut board",
+      "block.ris.nasa_statoion": "NASA Statoion",
+      "block.rismod.martian_slab": "Martian Slab",
+      "item.ris.agressive_alein_spawn_egg": "Agressive Alein Spawn Egg",
+      "block.ris.ch_14_wood": "CH14 Wood",
+      "item.ris.reaguar_alein_spawn_egg": "Reaguar Alein Spawn Egg",
+      "block.spacecraftforge.mercsoil": "Mercsoil",
+      "block.ris.martian_leaves": "Martian Leaves",
+      "block.spacecraftforge.martian_leaves": "Martian Leaves",
+      "item.ris.saturn": "Saturn Rocket",
+      "item.ris.galaxium_dust": "Galaxium",
+      "block.ris.ch_15_fence": "CH15 Fence",
+      "biome.ris.astroids": "Astroids",
+      "biome.ris.make_make_biome": "Make Make Biome",
+      "biome.ris.eris_biome": "Eris Biome",
+      "biome.ris.ceresbiome": "Ceresbiome",
+      "advancements.the_moon_is_near.descr": "Go to The moon",
+      "item.rismod.galaxium_armor_helmet": "Galaxium Helmet",
+      "item.ris.rc": "Rocket Controller",
+      "biome.ris.haumeaflat": "Haumeaflat",
+      "item.ris.capacitor": "Capacitor",
+      "block.ris.nasabig_station": "NASA Big Station",
+      "biome.rismod.marsflat": "Marsflat",
+      "itemGroup.tabreally_in_space_guns": "Really In Space Guns",
+      "item.ris.neptune": "Neptune Rocket",
+      "block.ris.ch_14_planks": "CH14 Planks",
+      "block.ris.ch_16_planks": "CH16 Planks",
+      "item.ris.sun": "Sun Rocket",
+      "item.ris.venusdimension": "Venus Rocket",
+      "item.rismod.galaxium_armor_chestplate": "Galaxium Chestplate",
+      "block.rismod.martian_leaves": "Martian Leaves",
+      "entity.ris.reaguar_alein": "Reaguar Alein",
+      "biome.ris.kupierbiome": "Kupierbiome",
+      "biome.ris.mercfltbiomes": "MercFlatBiome",
+      "item.rismod.galaxium_pickaxe": "Galaxium Pickaxe",
+      "item.ris.tier_2rocket_spawn_egg": "Tier 2rocket Spawn Egg",
+      "item.ris.moon": "Moon Rocket",
+      "advancements.really_in_spacea.descr": "Install The Really In Space mod",
+      "block.ris.martian_log": "Martian Log",
+      "entity.spacecraftforge.rocket": "Rocket",
+      "block.ris.ch_16_wood": "CH16 Wood",
+      "enchantment.ris.spacecurse": "Curse of space",
+      "item.ris.ic": "IC",
+      "block.rismod.martian_stone": "Martian Stone",
+      "advancements.place_in_space.descr": "Place Moon Stone",
+      "item.rismod.mercdim": "Mercury Rocket",
+      "item.ris.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.moon_2": "Moon#2 Rocket",
+      "block.ris.galaxium_ore": "Galaxium Ore",
+      "item.ris.star_finderitem": "Star Finder",
+      "block.ris.battery": "Battery",
+      "block.rismod.galaxium_ore": "Galaxium Ore",
+      "block.rismod.compressedmagma": "Compressed magma",
+      "biome.rismod.jupiter": "Jupiter",
+      "item.ris.jupiterdim": "Jupiter Rocket",
+      "item.ris.rantium_dust": "Rantium",
+      "block.ris.manton_block": "Block of Manton",
+      "block.spacecraftforge.martian_log": "Martian Log",
+      "block.rismod.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_wood": "Martian Wood",
+      "block.spacecraftforge.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.bullet": "Bullet",
+      "item.ris.pluto": "Pluto Rocket",
+      "advancements.the_heat_in_your_feet.descr": "Go to the sun",
+      "block.ris.ch_14_log": "CH14 Log",
+      "item.spacecraftforge.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.centuri": "Centuri Rocket",
+      "item.ris.manton_ingot": "Manton",
+      "block.rismod.martian_wood": "Martian Wood",
+      "item.ris.ailen_boss_spawn_egg": "Ailen Boss Spawn Egg",
+      "block.ris.martian_stairs": "Martian Stairs",
+      "block.ris.ch_15_leaves": "CH15 Leaves",
+      "item.rismod.galaxium_dust": "Galaxium",
+      "block.ris.mercsoil": "Mercsoil",
+      "block.ris.ch_15_wood": "CH15 Wood",
+      "block.ris.compressedmagma": "Compressed magma",
+      "block.ris.ore_compresser": "Ore Compresser",
+      "biome.ris.sunbiome": "Sunbiome",
+      "block.ris.ch_15_planks": "CH15 Planks",
+      "item.ris.kupier": "Kupier Rocket",
+      "block.ris.rocket_table": "Rocket Table",
+      "item.ris.ceres": "Ceres Rocket",
+      "block.rismod.martian_fence": "Martian Fence",
+      "item.rismod.galaxium_armor_leggings": "Galaxium Leggings",
+      "block.ris.ch_16_fence": "CH16 Fence",
+      "biome.ris.centuribiome": "Centuribiome",
+      "item.rismod.galaxium_armor_boots": "Galaxium Boots",
+      "block.spacecraftforge.martian_fence": "Martian Fence",
+      "entity.ris.tier_2rocket": "Tier 2rocket",
+      "block.ris.ch_16_log": "CH16 Log",
+      "item.ris.phobos": "Phobos Rocket"
+    },
+    "es_es": {
+      "block.rismod.jupiter_rock": "Jupiter Rock",
+      "item.ris.resistor": "Resistor",
+      "biome.ris.plutobiome": "Plutobiome",
+      "block.ris.ch_15_stairs": "CH15 Stairs",
+      "enchantment.ris.fixing": "Fixing",
+      "block.ris.ch_16_stairs": "CH16 Stairs",
+      "block.ris.ch_14_stairs": "CH14 Stairs",
+      "item.rismod.venusdimension": "Venus Rocket",
+      "block.ris.martian_slab": "Martian Slab",
+      "block.ris.rantium_block": "Block of Rantium",
+      "block.ris.martian_planks": "Martian Planks",
+      "item.rismod.galaxium_sword": "Galaxium Sword",
+      "item.ris.eris": "Eris Rocket",
+      "biome.ris.saturnb": "Saturnbiome",
+      "block.rismod.martian_log": "Martian Log",
+      "enchantment.ris.marscurse": "Curse Of Mars",
+      "biome.ris.venus": "Venus",
+      "entity.rismod.rocket": "Rocket",
+      "biome.ris.neptunebiome": "Neptunebiome",
+      "item.rismod.galaxium_hoe": "Galaxium Hoe",
+      "block.ris.ch_14_slab": "CH14 Slab",
+      "item.ris.alein_meal": "Alein Meal",
+      "block.rismod.martian_planks": "Martian Planks",
+      "block.ris.ch_14_leaves": "CH14 Leaves",
+      "item.rismod.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.uranus": "Uranus Rocket",
+      "block.ris.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_planks": "Martian Planks",
+      "block.ris.ch_14_fence_gate": "CH14 Fence Gate",
+      "advancements.the_space_explorer.descr": "Go to eris",
+      "block.ris.portal": "Portal",
+      "advancements.leave_me_alone.title": "Leave Me Alone",
+      "block.ris.ch_16_slab": "CH16 Slab",
+      "item.ris.alein_meal.shift.tooltip1": "Some Food",
+      "block.ris.ch_15_fence_gate": "CH15 Fence Gate",
+      "block.ris.ch_16_leaves": "CH16 Leaves",
+      "item.rismod.mars": "Mars Rocket",
+      "block.rismod.martian_fence_gate": "Martian Fence Gate",
+      "block.ris.ch_14_fence": "CH14 Fence",
+      "block.ris.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.haumea": "Haumea Rocket",
+      "item.ris.aek_971_gun": "AEK971",
+      "biome.ris.uranusbiome": "Uranusbiome",
+      "item.ris.deimos": "Deimos Rocket",
+      "item.rismod.galaxium_axe": "Galaxium Axe",
+      "block.spacecraftforge.martian_slab": "Martian Slab",
+      "block.ris.ch_15_log": "CH15 Log",
+      "advancements.place_in_space.title": "Place In Space",
+      "biome.ris.moon_biomes": "Moon Biomes",
+      "item.ris.ailen_spawn_egg": "Ailen Spawn Egg",
+      "item.ris.mars": "Mars Rocket",
+      "advancements.the_heat_in_your_feet.title": "The Heat In Your Feet",
+      "biome.ris.moonbiome": "Moon biome",
+      "item.rismod.jupiterdim": "Jupiter Rocket",
+      "block.rismod.portal": "Portal",
+      "block.rismod.mercsoil": "Mercsoil",
+      "block.ris.martian_stone": "Martian Stone",
+      "advancements.leave_me_alone.descr": "Leave the aliens in Peace",
+      "item.ris.astroid_belt": "Astroid Rocket",
+      "biome.spacecraftforge.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_15_slab": "CH15 Slab",
+      "item.ris.alein_meal.command.tooltip1": "Hello?",
+      "block.ris.martian_fence": "Martian Fence",
+      "block.ris.stargazerblock": "Stargazer",
+      "advancements.the_moon_is_near.title": "The Moon Is Near",
+      "item.rismod.galaxium_shovel": "Galaxium Shovel",
+      "entity.ris.lander": "Lander",
+      "biome.ris.jupiter": "Jupiter",
+      "advancements.really_in_spacea.title": "Really In Space",
+      "entity.ris.rocket": "Rocket",
+      "entity.ris.ailen": "Ailen",
+      "itemGroup.tabris": "RIS",
+      "biome.ris.marsflat": "Marsflat",
+      "item.ris.item_fixer": "Item Fixer",
+      "block.ris.rantium_ore": "Rantium Ore",
+      "entity.ris.agressive_alein": "Agressive Alein",
+      "entity.ris.ailen_boss": "Ailen Boss",
+      "block.ris.moon_stone": "Moon Stone",
+      "block.spacecraftforge.martian_stairs": "Martian Stairs",
+      "item.ris.lander_spawn_egg": "Lander Spawn Egg",
+      "item.ris.mercdim": "Mercury Rocket",
+      "block.rismod.martian_stairs": "Martian Stairs",
+      "biome.rismod.venus": "Venus",
+      "advancements.the_space_explorer.title": "The Space Explorer",
+      "biome.rismod.mercfltbiomes": "MercFlatBiome",
+      "block.ris.ch_16_fence_gate": "CH16 Fence Gate",
+      "item.ris.make_make": "MakeMake Rocket",
+      "item.ris.cboard": "Circut board",
+      "block.ris.nasa_statoion": "NASA Statoion",
+      "block.rismod.martian_slab": "Martian Slab",
+      "item.ris.agressive_alein_spawn_egg": "Agressive Alein Spawn Egg",
+      "block.ris.ch_14_wood": "CH14 Wood",
+      "item.ris.reaguar_alein_spawn_egg": "Reaguar Alein Spawn Egg",
+      "block.spacecraftforge.mercsoil": "Mercsoil",
+      "block.ris.martian_leaves": "Martian Leaves",
+      "block.spacecraftforge.martian_leaves": "Martian Leaves",
+      "item.ris.saturn": "Saturn Rocket",
+      "item.ris.galaxium_dust": "Galaxium",
+      "block.ris.ch_15_fence": "CH15 Fence",
+      "biome.ris.astroids": "Astroids",
+      "biome.ris.make_make_biome": "Make Make Biome",
+      "biome.ris.eris_biome": "Eris Biome",
+      "biome.ris.ceresbiome": "Ceresbiome",
+      "advancements.the_moon_is_near.descr": "Go to The moon",
+      "item.rismod.galaxium_armor_helmet": "Galaxium Helmet",
+      "item.ris.rc": "Rocket Controller",
+      "biome.ris.haumeaflat": "Haumeaflat",
+      "item.ris.capacitor": "Capacitor",
+      "block.ris.nasabig_station": "NASA Big Station",
+      "biome.rismod.marsflat": "Marsflat",
+      "itemGroup.tabreally_in_space_guns": "Really In Space Guns",
+      "item.ris.neptune": "Neptune Rocket",
+      "block.ris.ch_14_planks": "CH14 Planks",
+      "block.ris.ch_16_planks": "CH16 Planks",
+      "item.ris.sun": "Sun Rocket",
+      "item.ris.venusdimension": "Venus Rocket",
+      "item.rismod.galaxium_armor_chestplate": "Galaxium Chestplate",
+      "block.rismod.martian_leaves": "Martian Leaves",
+      "entity.ris.reaguar_alein": "Reaguar Alein",
+      "biome.ris.kupierbiome": "Kupierbiome",
+      "biome.ris.mercfltbiomes": "MercFlatBiome",
+      "item.rismod.galaxium_pickaxe": "Galaxium Pickaxe",
+      "item.ris.tier_2rocket_spawn_egg": "Tier 2rocket Spawn Egg",
+      "item.ris.moon": "Moon Rocket",
+      "advancements.really_in_spacea.descr": "Install The Really In Space mod",
+      "block.ris.martian_log": "Martian Log",
+      "entity.spacecraftforge.rocket": "Rocket",
+      "block.ris.ch_16_wood": "CH16 Wood",
+      "enchantment.ris.spacecurse": "Curse of space",
+      "item.ris.ic": "IC",
+      "block.rismod.martian_stone": "Martian Stone",
+      "advancements.place_in_space.descr": "Place Moon Stone",
+      "item.rismod.mercdim": "Mercury Rocket",
+      "item.ris.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.moon_2": "Moon#2 Rocket",
+      "block.ris.galaxium_ore": "Galaxium Ore",
+      "item.ris.star_finderitem": "Star Finder",
+      "block.ris.battery": "Battery",
+      "block.rismod.galaxium_ore": "Galaxium Ore",
+      "block.rismod.compressedmagma": "Compressed magma",
+      "biome.rismod.jupiter": "Jupiter",
+      "item.ris.jupiterdim": "Jupiter Rocket",
+      "item.ris.rantium_dust": "Rantium",
+      "block.ris.manton_block": "Block of Manton",
+      "block.spacecraftforge.martian_log": "Martian Log",
+      "block.rismod.galaxium_block": "Block of Galaxium",
+      "block.spacecraftforge.martian_wood": "Martian Wood",
+      "block.spacecraftforge.martian_fence_gate": "Martian Fence Gate",
+      "item.ris.bullet": "Bullet",
+      "item.ris.pluto": "Pluto Rocket",
+      "advancements.the_heat_in_your_feet.descr": "Go to the sun",
+      "block.ris.ch_14_log": "CH14 Log",
+      "item.spacecraftforge.rocket_spawn_egg": "Rocket Spawn Egg",
+      "item.ris.centuri": "Centuri Rocket",
+      "item.ris.manton_ingot": "Manton",
+      "block.rismod.martian_wood": "Martian Wood",
+      "item.ris.ailen_boss_spawn_egg": "Ailen Boss Spawn Egg",
+      "block.ris.martian_stairs": "Martian Stairs",
+      "block.ris.ch_15_leaves": "CH15 Leaves",
+      "item.rismod.galaxium_dust": "Galaxium",
+      "block.ris.mercsoil": "Mercsoil",
+      "block.ris.ch_15_wood": "CH15 Wood",
+      "block.ris.compressedmagma": "Compressed magma",
+      "block.ris.ore_compresser": "Ore Compresser",
+      "biome.ris.sunbiome": "Sunbiome",
+      "block.ris.ch_15_planks": "CH15 Planks",
+      "item.ris.kupier": "Kupier Rocket",
+      "block.ris.rocket_table": "Rocket Table",
+      "item.ris.ceres": "Ceres Rocket",
+      "block.rismod.martian_fence": "Martian Fence",
+      "item.rismod.galaxium_armor_leggings": "Galaxium Leggings",
+      "block.ris.ch_16_fence": "CH16 Fence",
+      "biome.ris.centuribiome": "Centuribiome",
+      "item.rismod.galaxium_armor_boots": "Galaxium Boots",
+      "block.spacecraftforge.martian_fence": "Martian Fence",
+      "entity.ris.tier_2rocket": "Tier 2rocket",
+      "block.ris.ch_16_log": "CH16 Log",
+      "item.ris.phobos": "Phobos Rocket"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "ris",
+    "modName": "ReallyInSpaceMod",
+    "version": "1.0.0",
+    "description": "16+ custom dimensions. adding more things soom",
+    "author": "Souldbminer \u0026 Help From My Patreons",
+    "websiteURL": "https://github.com/ApposModding/rismod",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Help From my Patreons",
+    "modElementsPackage": "org.souldbminer.reallyinspace",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

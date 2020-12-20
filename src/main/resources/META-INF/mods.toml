@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="ris"
+version="1.0.0"
+displayName="ReallyInSpaceMod"
+credits="Help From my Patreons"
+displayURL="https://github.com/ApposModding/rismod"
+authors="Souldbminer & Help From My Patreons"
+description='''
+16+ custom dimensions. adding more things soom
+'''
+
+[[dependencies.ris]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

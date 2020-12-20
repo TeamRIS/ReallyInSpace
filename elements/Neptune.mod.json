@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Portal"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:Portaleffect"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Neptune Rocket",
+    "igniterTab": {
+      "value": "CUSTOM:RIS"
+    },
+    "texture": "igneiertextures",
+    "portalTexture": "galaxium_ore_block",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Neptunebiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.BLUE_ICE"
+    },
+    "fluidBlock": {
+      "value": "Blocks.BLUE_ICE"
+    },
+    "airColor": {
+      "value": -6710887,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}
