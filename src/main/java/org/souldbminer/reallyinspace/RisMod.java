@@ -20,6 +20,23 @@ package org.souldbminer.reallyinspace;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.minecraftforge.fml.network.simple.SimpleChannel;
+import net.minecraftforge.fml.network.NetworkRegistry;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.common.MinecraftForge;
+
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.item.Item;
+import net.minecraft.entity.EntityType;
+import net.minecraft.enchantment.Enchantment;
+import net.minecraft.block.Block;
+
 import java.util.function.Supplier;
 
 @Mod("ris")
@@ -31,22 +48,16 @@ public class RisMod {
 	public RisModElements elements;
 	public RisMod() {
 		elements = new RisModElements();
-		FMLJavaModLoadingContext.get().getModEventBus().addListener(this::init);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
-		MinecraftForge.EVENT_BUS.register(this);
+		FMLJavaModLoadingContext.get().getModEventBus().addListener(this::init);
+		FMLJavaModLoadingContext.get().getModEventBus().addListener(this::clientLoad);
+		MinecraftForge.EVENT_BUS.register(new RisModFMLBusEvents(this));
 	}
 
 	private void init(FMLCommonSetupEvent event) {
 		elements.getElements().forEach(element -> element.init(event));
 	}
 
-	@SubscribeEvent
-	public void serverLoad(FMLServerStartingEvent event) {
-		elements.getElements().forEach(element -> element.serverLoad(event));
-	}
-
-	@SubscribeEvent
-	@OnlyIn(Dist.CLIENT)
 	public void clientLoad(FMLClientSetupEvent event) {
 		elements.getElements().forEach(element -> element.clientLoad(event));
 	}
@@ -62,11 +73,6 @@ public class RisMod {
 	}
 
 	@SubscribeEvent
-	public void registerBiomes(RegistryEvent.Register<Biome> event) {
-		event.getRegistry().registerAll(elements.getBiomes().stream().map(Supplier::get).toArray(Biome[]::new));
-	}
-
-	@SubscribeEvent
 	public void registerEntities(RegistryEvent.Register<EntityType<?>> event) {
 		event.getRegistry().registerAll(elements.getEntities().stream().map(Supplier::get).toArray(EntityType[]::new));
 	}
@@ -79,5 +85,16 @@ public class RisMod {
 	@SubscribeEvent
 	public void registerSounds(RegistryEvent.Register<net.minecraft.util.SoundEvent> event) {
 		elements.registerSounds(event);
+	}
+	private static class RisModFMLBusEvents {
+		private final RisMod parent;
+		RisModFMLBusEvents(RisMod parent) {
+			this.parent = parent;
+		}
+
+		@SubscribeEvent
+		public void serverLoad(FMLServerStartingEvent event) {
+			this.parent.elements.getElements().forEach(element -> element.serverLoad(event));
+		}
 	}
 }

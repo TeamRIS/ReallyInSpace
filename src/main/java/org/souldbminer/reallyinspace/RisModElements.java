@@ -6,7 +6,23 @@
  */
 package org.souldbminer.reallyinspace;
 
+import net.minecraftforge.forgespi.language.ModFileScanData;
+import net.minecraftforge.fml.network.NetworkEvent;
+import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.ModList;
+import net.minecraftforge.event.RegistryEvent;
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.tags.Tag;
+import net.minecraft.network.PacketBuffer;
+import net.minecraft.item.Item;
+import net.minecraft.entity.EntityType;
+import net.minecraft.enchantment.Enchantment;
+import net.minecraft.block.Block;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -25,7 +41,6 @@ public class RisModElements {
 	public final List<ModElement> elements = new ArrayList<>();
 	public final List<Supplier<Block>> blocks = new ArrayList<>();
 	public final List<Supplier<Item>> items = new ArrayList<>();
-	public final List<Supplier<Biome>> biomes = new ArrayList<>();
 	public final List<Supplier<EntityType<?>>> entities = new ArrayList<>();
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
@@ -68,10 +83,6 @@ public class RisModElements {
 
 	public List<Supplier<Item>> getItems() {
 		return items;
-	}
-
-	public List<Supplier<Biome>> getBiomes() {
-		return biomes;
 	}
 
 	public List<Supplier<EntityType<?>>> getEntities() {

@@ -4,6 +4,12 @@ package org.souldbminer.reallyinspace.itemgroup;
 import org.souldbminer.reallyinspace.block.PortalBlock;
 import org.souldbminer.reallyinspace.RisModElements;
 
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+
 @RisModElements.ModElement.Tag
 public class RISItemGroup extends RisModElements.ModElement {
 	public RISItemGroup(RisModElements instance) {

@@ -21,4 +21,34 @@ description='''
 
 
 
+[[dependencies.ris]]
+    modId="just_enough_items"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ris]]
+    modId="obfuscate"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ris]]
+    modId="curios"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ris]]
+    modId="patchouli"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ris]]
+    modId="geckolib"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ris]]
+    modId="arcanecraft"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
 
